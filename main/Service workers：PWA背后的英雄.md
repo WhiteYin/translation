@@ -1,6 +1,5 @@
 > 原文地址：[https://medium.freecodecamp.org/service-workers-the-little-heroes-behind-progressive-web-apps-431cc22d0f16](https://medium.freecodecamp.org/service-workers-the-little-heroes-behind-progressive-web-apps-431cc22d0f16)  
-作者：[
-Flavio Copes](https://medium.freecodecamp.org/@writesoftware)  
+作者：[Flavio Copes](https://medium.freecodecamp.org/@writesoftware)  
 摘要：这篇文章简述service worker作为PWA核心技术如何实现资源缓存和消息推送的功能，还帮助读者理解service worker的生命周期。
 
 Service worker是渐进式网络应用（Progressive Web Apps）的核心。它们帮助我们实现原本是原生app才有资源缓存和消息推送两大特性。
