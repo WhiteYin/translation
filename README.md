@@ -14,3 +14,4 @@ Medium daily translation.
 2018-3-4|[How to make responsiveness super simple with CSS Variables](https://github.com/WhiteYin/translation/issues/6)|CSS变量让你轻松制作响应式网页
 2018-3-11|[Code Splitting using Lazy Loading with React, Redux, Typescript, and Webpack 4](https://github.com/WhiteYin/translation/issues/7)|基于Webpack4使用懒加载分离打包React代码
 2018-3-18|[data visualization with react-vis](https://github.com/WhiteYin/translation/issues/8)|react-vis：一个数据可视化库
+2018-3-25|[Check out these useful ECMAScript 2015 (ES6) tips and tricks](https://github.com/WhiteYin/translation/issues/9)|你点的ES6小技巧，请查收
