@@ -3,7 +3,12 @@ Medium daily translation.
 翻译每天Medium邮件推送的文章。
 
 *本项目每周更新，仅用于学习交流，转载请注明出处。*  
-*建议点击watch而不是star，或关注我的[SF专栏](https://segmentfault.com/blog/yin-translation)来获取最近更新*
+
+**建议点击watch而不是star**  
+**建议点击watch而不是star**  
+**建议点击watch而不是star**    
+
+或关注我的[SF专栏](https://segmentfault.com/blog/yin-translation)来获取最近更新
 
 # 目录
 日期|原文标题|译名
@@ -17,3 +22,4 @@ Medium daily translation.
 2018-3-25|[Check out these useful ECMAScript 2015 (ES6) tips and tricks](https://github.com/WhiteYin/translation/issues/9)|你点的ES6小技巧，请查收
 2018-4-1|[Google publishes a JavaScript style guide. Here are some key lessons](https://github.com/WhiteYin/translation/issues/10)|关于Google发布的JS代码规范，你需要了解什么？
 2018-4-13|[How to debug front-end: optimising network assets](https://github.com/WhiteYin/translation/issues/12)|前端调试清单之优化网络资源
+2018-4-19|[Infinite scroll techniques in React](https://github.com/WhiteYin/translation/issues/13)|基于React的无限滚动
