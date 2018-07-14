@@ -23,3 +23,4 @@ Medium daily translation.
 2018-4-1|[Google publishes a JavaScript style guide. Here are some key lessons](https://github.com/WhiteYin/translation/issues/10)|关于Google发布的JS代码规范，你需要了解什么？
 2018-4-13|[How to debug front-end: optimising network assets](https://github.com/WhiteYin/translation/issues/12)|前端调试清单之优化网络资源
 2018-4-19|[Infinite scroll techniques in React](https://github.com/WhiteYin/translation/issues/13)|基于React的无限滚动
+2018-7-14|[JavaScript async/await: The Good Part, Pitfalls and How to Use](https://github.com/WhiteYin/translation/issues/13)|简述async与await的特性与正确的使用方式
